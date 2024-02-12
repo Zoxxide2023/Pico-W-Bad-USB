@@ -23,3 +23,5 @@ Download the [Pico-W-Bad-USB](https://github.com/Zoxxide2023/Pico-W-Bad-USB/blob
 ![image](https://github.com/Zoxxide2023/Pico-W-Bad-USB/assets/97050049/4bee0b05-cb6d-41d6-bebc-8143fd5e49a5)
 
 You're all good to go now, the payload.txt file is the only one you need to code in. I will make some payloads and put them in this repository and my website.
+
+# The payload in the zip file is empty :(
