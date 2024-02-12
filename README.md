@@ -9,3 +9,5 @@ Once you have done that hold the boot button on your Pico W and plug it into you
 ![image](https://github.com/Zoxxide2023/Pico-W-Bad-USB/assets/97050049/596bb7e5-563e-4e6f-9b1f-5de5004078a9)
 
 It should come up as RPI-RP2, if it doesn't try the steps above again.
+
+![image](https://github.com/Zoxxide2023/Pico-W-Bad-USB/assets/97050049/94e18e25-07aa-41a5-8617-0734187ef5ee)
