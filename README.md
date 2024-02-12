@@ -14,4 +14,4 @@ It should come up as RPI-RP2, if it doesn't try the steps above again.
 
 Now that you've set it up drag the uf2 file into your Pico W storage folder and it should automatically restart and it will be named "CIRCUITPY"
 
-[UF2 file]([https://example.com/path/to/your/file](https://github.com/Zoxxide2023/Pico-W-Bad-USB/blob/main/adafruit-circuitpython-raspberry_pi_pico-en_GB-8.2.9.uf2)https://github.com/Zoxxide2023/Pico-W-Bad-USB/blob/main/adafruit-circuitpython-raspberry_pi_pico-en_GB-8.2.9.uf2)
+[UF2 file](https://github.com/Zoxxide2023/Pico-W-Bad-USB/blob/main/adafruit-circuitpython-raspberry_pi_pico-en_GB-8.2.9.uf2)
